@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-mercury",
+  "version": "1.0.0",
+  "description": "ESLint configuration used in mercury design systems",
+  "main": "index.js",
+  "author": "Luís Paulino",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^8.0.0",
+    "typescript": ">=4"
+  },
+  "peerDependenciesMeta": {
+    "typescript": {
+      "optional": true
+    }
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.3.0",
+    "@typescript-eslint/parser": "^6.3.0",
+    "eslint": "^8.47.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-import-helpers": "^1.3.1",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-prettier": "^5.0.0",
+    "eslint-plugin-react": "^7.33.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^3.0.1"
+  }
+}
