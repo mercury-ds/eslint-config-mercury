@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "Luís Paulino",
   "license": "MIT",
+  "repository": {
+    "url": "mercury-ds/eslint-config-mercury"
+  },
   "peerDependencies": {
     "eslint": "^8.0.0",
     "typescript": ">=4"
