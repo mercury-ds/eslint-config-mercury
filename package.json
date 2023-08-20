@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-mercury",
+  "name": "@mercury-ds/eslint-config-mercury",
   "version": "1.0.0",
   "description": "ESLint configuration used in mercury design systems",
   "main": "index.js",
